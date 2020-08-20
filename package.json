@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-storyblok-image",
+  "name": "gatsby-storyblok-image-redux",
   "version": "0.2.2",
   "description": "Adds gatsby-image to Gatsby & Storyblok as a content source.",
   "source": "src/index.js",
@@ -18,11 +18,11 @@
     "gatsby-image",
     "source-storyblok"
   ],
-  "author": "Thom Krupa <thom@bejamas.io>",
-  "homepage": "https://github.com/bejamas/gatsby-storyblok-image#readme",
-  "repository": "https://github.com/bejamas/gatsby-storyblok-image",
+  "author": "Rob Easthope <hello@robeasthope.com>",
+  "homepage": "https://github.com/RobEasthope/gatsby-storyblok-image-redux#readme",
+  "repository": "https://github.com/RobEasthope/gatsby-storyblok-image-redux",
   "bugs": {
-    "url": "https://github.com/bejamas/gatsby-storyblok-image/issues"
+    "url": "https://github.com/RobEasthope/gatsby-storyblok-image-redux/issues"
   },
   "license": "MIT",
   "dependencies": {},
